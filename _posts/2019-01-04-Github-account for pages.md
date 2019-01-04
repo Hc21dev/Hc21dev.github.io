@@ -1,7 +1,4 @@
 # Github - account for pages	
-Username: matt.burton@healthcare21.co.uk
-Password: HealthCare2!
-**@Hc21dev**!
 
 Building Jekyll locally - Installing with home-brew:
 [Install Jekyll on macOS Mojave](https://desiredpersona.com/install-jekyll-on-macos/)
